@@ -11,7 +11,7 @@ extern "C" {
 const char* ssid = "<wifi ssid>";
 const char* password = "<wifi password>";
 
-const char* awsEndpoint = "a2ecz3frs0f8y9-ats.iot.us-east-1.amazonaws.com";
+const char* awsEndpoint = "xxxxxxxx.iot.us-east-1.amazonaws.com";
 
 const String certificatePemCrt = \
 //-----BEGIN CERTIFICATE-----
